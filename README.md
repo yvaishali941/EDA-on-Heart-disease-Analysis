@@ -6,22 +6,22 @@ Health is real wealth in the pandemic time we all realized the brute effects of 
 This Dataset consist of 1025 rows and 14 columns:
 Columns and Their datatypes:
 Numerical:
-   Age 
-   Resting BP 
-   Cholesterol                          
-   Resting ECG 
-   Max heartrate
+   Age,
+   Resting BP,
+   Cholesterol,                          
+   Resting ECG ,
+   Max heartrate,
    ST Depression
 
 Categorical:
-   Fasting blood Sugar
-   angina
-   Slope ST Segment
-   ca
-   Thalassemia                                       
-   Target
-   Sex
-   Chest pain
+   Fasting blood Sugar,
+   angina,
+   Slope ST Segment,
+   ca,
+   Thalassemia,                                       
+   Target,
+   Sex,
+   Chest pain.
 
 As a Health Data Analyst my main objective for this analysis includes:
     						1. Cleaning and Transformation of Data
